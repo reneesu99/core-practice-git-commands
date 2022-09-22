@@ -2,8 +2,7 @@ import pytest
 
 
 def always_returns_true():
-    print("helllllooooooo")
-    return True
+    print("Create merge conflict!")
 
 
 def test_always_returns_true():
